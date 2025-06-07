@@ -1,0 +1,5 @@
+node_modules/
+.env
+.DS_Store
+*.log
+# Add any other unwanted files/folders
